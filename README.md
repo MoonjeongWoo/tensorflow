@@ -1,6 +1,6 @@
 # tensorflow
 
 finding tiny dust in the air.
-using tensoflow iwht python and google colaboratory.
+using tensoflow with python and google colaboratory.
 
 made in 2021.11
